@@ -43,15 +43,19 @@
     <h1>Who is the best?</h1>
     <div class="image-container">
         <div>
-           <img src="images/WhatsApp_Image_2025-03-09_at_12.18.45_5b7ad539.jpg" alt="AALU">
+            <!-- Reference the image with the new name -->
+            <img src="images/aalu.jpg" alt="AALU">
+            <p>AALU</p>
         </div>
         <div>
-          <img src="images/WhatsApp_Image_2025-03-09_at_12.19.38_0477c0dc.jpg" alt="BRUNO">
+            <!-- Reference the image with the new name -->
+            <img src="images/bruno.jpg" alt="BRUNO">
+            <p>BRUNO</p>
         </div>
     </div>
 
     <div class="vote-buttons">
-        <button onclick="alert('You voted for BRUNO!')">Vote for AALU</button>
+        <button onclick="alert('You voted for AALU!')">Vote for AALU</button>
         <button onclick="alert('You voted for BRUNO!')">Vote for BRUNO</button>
     </div>
 
