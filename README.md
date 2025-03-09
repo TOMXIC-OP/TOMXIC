@@ -43,7 +43,7 @@
     <h1>Who is the best?</h1>
     <div class="image-container">
         <div>
-          <img src="images/WhatsApp_Image_2025-03-09_at_12.18.45_5b7ad539.JPG" alt="AALU"><p>AALU</p>
+          <img src="WhatsApp Image 2025-03-09 at 12.18.45_5b7ad539.jpg" alt="AALU"><p>AALU</p>
         </div>
         <div>
           <img src="images/WhatsApp_Image_2025-03-09_at_12.19.38_0477c0dc.JPG" alt="BRUNO"><p>BRUNO</p>
