@@ -43,14 +43,10 @@
     <h1>Who is the best?</h1>
     <div class="image-container">
         <div>
-            <!-- Reference the image with the new name -->
-            <img src="images/aalu.jpg" alt="AALU">
-            <p>AALU</p>
+          <img src="images/WhatsApp_Image_2025-03-09_at_12.18.45_5b7ad539.jpg" alt="AALU"><p>AALU</p>
         </div>
         <div>
-            <!-- Reference the image with the new name -->
-            <img src="images/bruno.jpg" alt="BRUNO">
-            <p>BRUNO</p>
+          <img src="images/WhatsApp_Image_2025-03-09_at_12.19.38_0477c0dc.jpg" alt="BRUNO"><p>BRUNO</p>
         </div>
     </div>
 
