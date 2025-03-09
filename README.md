@@ -43,12 +43,10 @@
     <h1>Who is the best?</h1>
     <div class="image-container">
         <div>
-            <img src="C:\Users\it_lp\OneDrive\Desktop\WhatsApp Image 2025-03-09 at 12.18.45_5b7ad539.jpg" alt="AALU">
-            <p>AALU</p>
+           <img src="images/WhatsApp_Image_2025-03-09_at_12.18.45_5b7ad539.jpg" alt="AALU">
         </div>
         <div>
-            <img src="C:\Users\it_lp\OneDrive\Desktop\WhatsApp Image 2025-03-09 at 12.19.38_0477c0dc.jpg" alt="BRUNO">
-            <p>BRUNO</p>
+          <img src="images/WhatsApp_Image_2025-03-09_at_12.19.38_0477c0dc.jpg" alt="BRUNO">
         </div>
     </div>
 
