@@ -46,7 +46,7 @@
           <img src="WhatsApp Image 2025-03-09 at 12.18.45_5b7ad539.jpg" alt="AALU"><p>AALU</p>
         </div>
         <div>
-          <img src="images/WhatsApp_Image_2025-03-09_at_12.19.38_0477c0dc.JPG" alt="BRUNO"><p>BRUNO</p>
+          <img src="images/WhatsApp_Image_2025-03-09_at_12.19.38_0477c0dc.jpg" alt="BRUNO"><p>BRUNO</p>
         </div>
     </div>
 
