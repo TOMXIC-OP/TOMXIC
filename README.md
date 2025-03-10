@@ -51,7 +51,7 @@
     </div>
 
     <div class="vote-buttons">
-        <button onclick="alert('You voted for AALU!')">Vote for AALU</button>
+        <button onclick="alert('You voted for BRUNO!')">Vote for AALU</button>
         <button onclick="alert('You voted for BRUNO!')">Vote for BRUNO</button>
     </div>
 
